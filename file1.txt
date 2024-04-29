@@ -1,1 +1,2 @@
-line1
+line1 added now
+line2 added now
